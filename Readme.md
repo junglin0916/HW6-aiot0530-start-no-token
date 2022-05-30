@@ -58,6 +58,8 @@ delete .git and git remote add origin master github.com/xxxxx
 
 ### step 10: Complete
 
+Sample link:
+https://awinlab-aiot.herokuapp.com/
 
 
 
