@@ -6,6 +6,7 @@
 
 ### step 2 : install some package
 
+
 ```python
 pip insall gunicorn  
 Flask==2.0.1 
@@ -23,6 +24,7 @@ numpy
 * go to resource and add-on an Heroku postgredb
 
 ### step 4: login to heroku pstgredb using HeidiSQL
+
 
 ```sql
 myserver ="<fill-in-Heroku-Postgredb-DB-sever>"
